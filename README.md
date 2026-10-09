@@ -45,7 +45,6 @@ I enjoy exploring existing codebases, improving software documentation, writing 
 ### Core Focus Areas
 - **Software Development**
 - **Open Source**
-- **Blockchain**
 - **Data Structures and Algorithms**
 
 ### Technologies & Tools
