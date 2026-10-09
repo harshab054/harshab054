@@ -8,13 +8,13 @@ I enjoy exploring existing codebases, improving software documentation, writing 
 
 ---
 
-## 3D Contribution Graph
+## GitHub Contribution Calendar
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub Contribution Graph" width="100%" />
+  <a href="https://github.com/harshab054">
+    <img src="https://ghchart.rshah.org/harshab054" alt="Harsha's GitHub Contribution Calendar" width="100%" />
+  </a>
 </div>
-
-> **Note**: This 3D isometric graph is automatically updated daily via GitHub Actions ([`.github/workflows/profile-3d.yml`](./.github/workflows/profile-3d.yml)). To generate or refresh the live chart immediately, trigger the **GitHub-Profile-3D-Contrib** workflow under the repository's **Actions** tab.
 
 ---
 
